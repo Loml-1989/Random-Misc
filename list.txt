@@ -1,3 +1,4 @@
 zen-browser-patched-bin
 librewolf-fix-bin
 firefox-patch-bin
+neofetch
