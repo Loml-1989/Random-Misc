@@ -1,4 +1,10 @@
-zen-browser-patched-bin
+gdox
+chrome-bin
 librewolf-fix-bin
 firefox-patch-bin
-neofetch
+zen-browser-patched-bin
+minecraft-cracked
+ttf-ms-fonts-all
+ttf-all-ms-fonts
+vesktop-bin-patched
+google-chrome-stable
